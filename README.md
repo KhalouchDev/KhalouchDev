@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KhalouchDev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: discord-Khalouch#3208
 
 <!---
