@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khaled Murrar (@KhalouchDev)
+- 👋 Hi, I’m Khaled Murrar
 - 📫 How to reach me: 
   + Email: khalouchdev@gmail.com
   + Discord: Khalouch#3208
